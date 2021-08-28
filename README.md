@@ -1,2 +1,2 @@
 # OSH
-Online Student Helper, Helping student save link from any other resource
+Online Student Helper, Helping me to save the link from a lot of other sources
