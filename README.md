@@ -1,15 +1,15 @@
 # OSH
 
-Online Student Helper, Helping me to save the link from a lot of other sources
+Online Student Helper, Helping me (for now) to save the link from a lot of other sources
 
 https://e-edsen.github.io/OSH/
 
 List of my class :\
-TKTI - B\
-ABD - A\
-DPSI - B\
-ASD - C\
-TAKKSI - D\
-TECHNOPRENEURSHIP - C\
-ETPROF - D\
-PDS - D
+
+PUX - C\
+PEMWEB - A\
+DW - A\
+PSSI - E\
+ADSI - E\
+PBD - A\
+EA - D\
